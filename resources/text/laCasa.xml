@@ -1,0 +1,134 @@
+<class>Italian 101 </class>
+<vocabulary>
+    <word>
+        <italian>la casa</italian>
+        <english>house</english>
+        <definition>
+            <english> where you live!</english>
+        </definition>
+    </word>
+    <word>
+        <italian>il monolocale</italian>
+        <english>studio flat</english>
+    </word>
+    <word>
+        <italian>la mansarda</italian>
+        <english>attic flat</english>
+    </word>
+    <word>
+        <italian>il seminterrato</italian>
+        <english>basement flat</english>
+    </word>
+    <word>
+        <italian>la villa</italian>
+        <english>a large, detached home</english>
+    </word>
+    <word>
+        <italian>l’appartamento</italian>
+        <english>apartment</english>
+    </word>
+    <word>
+        <italian>l’attico</italian>
+        <english>penthouse</english>
+    </word>
+    <word>
+        <italian>il condominio</italian>
+        <english>condominium (USA), block of flats (UK)</english>
+    </word>
+    <word>
+        <italian>il caseggiato</italian>
+        <english>apartment building, block of flats (UK)</english>
+    </word>
+    <word>
+        <italian>il bagno</italian>
+        <english>bathroom</english>
+    </word>
+    <word>
+        <italian>l’asciugacapelli</italian>
+        <english>hairdrier</english>
+    </word>
+    <word>
+        <italian>l’asciugamano</italian>
+        <english>hand towel</english>
+    </word>
+    <word>
+        <italian>il bidet</italian>
+        <english>bidet</english>
+    </word>
+    <word>
+        <italian>la doccia</italian>
+        <english>shower</english>
+    </word>
+    <word>
+        <italian>il lavandino</italian>
+        <english>wash basin</english>
+    </word>
+    <word>
+        <italian>il rubinetto</italian>
+        <english>tap</english>
+    </word>
+    <word>
+        <italian>la vasca</italian>
+        <english>bath</english>
+    </word>
+    <word>
+        <italian>il water</italian>
+        <english>W.C./toilet</english>
+    </word>
+    <word>
+        <italian>la cucina</italian>
+        <english>kitchen</english>
+    </word>
+    <word>
+        <italian>il fornello</italian>
+        <english>cooker</english>
+    </word>
+    <word>
+        <italian>il forno</italian>
+        <english>oven</english>
+    </word>
+    <word>
+        <italian>il frigorifero</italian>
+        <english>fridge</english>
+    </word>
+    <word>
+        <italian>la lavastoviglie</italian>
+        <english>dishwasher</english>
+    </word>
+    <word>
+        <italian>il lavello</italian>
+        <english>sink</english>
+    </word>
+    <word>
+        <italian>la camera</italian>
+        <english>room/bedroom</english>
+    </word>
+    <word>
+        <italian>l’armadio</italian>
+        <english>wardrobe</english>
+    </word>
+    <word>
+        <italian>il comodino</italian>
+        <english>bedside table</english>
+    </word>
+    <word>
+        <italian>la coperta</italian>
+        <english>blanket</english>
+    </word>
+    <word>
+        <italian>il letto</italian>
+        <english>bed</english>
+    </word>
+    <word>
+        <italian>la lampada</italian>
+        <english>lamp</english>
+    </word>
+    <word>
+        <italian>la moquette</italian>
+        <english>carpet</english>
+    </word>
+    <word>
+        <italian>lo studio</italian>
+        <english>office</english>
+    </word>
+  </vocabulary>

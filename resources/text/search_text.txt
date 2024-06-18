@@ -1,0 +1,102 @@
+This is a	simple    phrase     phrase
+
+Another phrase after an empty line 
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
+ut labore et dolore magna aliqua. Magna fermentum iaculis eu non diam. Quisque sagittis purus 
+sit amet volutpat. Feugiat in fermentum posuere urna nec tincidunt. Erat velit scelerisque in dictum.
+Eu lobortis elementum nibh tellus molestie nunc non blandit. Lobortis feugiat vivamus at augue eget.
+Vitae aliquet nec ullamcorper sit amet. Tempus urna et pharetra pharetra massa massa ultricies. 
+Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in. Volutpat sed cras ornare arcu dui 
+vivamus arcu felis bibendum. Malesuada fames ac turpis egestas. Nulla malesuada pellentesque elit eget 
+gravida cum sociis natoque penatibus. Bibendum arcu vitae elementum curabitur. Egestas tellus rutrum tellus pellentesque eu tincidunt 
+tortor. In hac habitasse platea dictumst quisque sagittis purus sit. Non arcu risus quis varius quam. 
+
+This is a	simple    phrase     phrase
+
+Another phrase after an empty line 
+
+This is a	simple    phrase     phrase
+
+Another phrase after an empty line 
+
+This is a	simple    phrase     phrase
+
+Another phrase after an empty line 
+
+This is a	simple    phrase     phrase
+
+Another phrase after an empty line 
+From Wikipedia, the free encyclopedia
+Fortran
+Paradigm	Multi-paradigm: structured, imperative (procedural, object-oriented), generic, array
+Designed by	John Backus
+Developer	John Backus and IBM
+First appeared	1957; 66 years ago
+Stable release	
+Fortran 2018 (ISO/IEC 1539-1:2018) / November 28, 2018; 4 years ago
+Typing discipline	strong, static, manifest
+Filename extensions	.f90, .f, .for
+Website	fortran-lang.org
+Major implementations
+Absoft, Cray, GFortran, G95, IBM XL Fortran, Intel, Hitachi, Lahey/Fujitsu, Numerical Algorithms Group, Open Watcom, PathScale, PGI, Silverfrost, Oracle Solaris Studio, others
+Influenced by
+Speedcoding
+Influenced
+ALGOL 58, BASIC, C, Chapel,[1] CMS-2, DOPE, Fortress, PL/I, PACT I, MUMPS, IDL, Ratfor
+Fortran (/ˈfɔːrtræn/; formerly FORTRAN) is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing.
+
+Fortran was originally developed by IBM[2] in the 1950s for scientific and engineering applications, and subsequently came to dominate scientific computing. It has been in use for over seven decades in computationally intensive areas such as numerical weather prediction, finite element analysis, computational fluid dynamics, geophysics, computational physics, crystallography and computational chemistry. It is a popular language for high-performance computing[3] and is used for programs that benchmark and rank the world's fastest supercomputers.[4][5]
+
+
+The IBM Blue Gene/P supercomputer installation in 2007 at the Argonne Leadership Angela Yang Computing Facility located in the Argonne National Laboratory, in Lemont, Illinois, US
+Fortran's design was the basis for many other programming languages, especially BASIC and ALGOL. But Fortran has itself evolved through numerous versions and dialects, adding extensions while largely retaining compatibility with preceding versions. Successive versions have added support for structured programming and processing of character-based data (FORTRAN 77), array programming, modular programming and generic programming (Fortran 90), High Performance Fortran (Fortran 95), object-oriented programming (Fortran 2003), concurrent programming (Fortran 2008), and native parallel computing capabilities (Coarray Fortran 2008/2018).
+
+
+FORTRAN and COBOL genealogy tree
+Since August 2021, Fortran has ranked among the top fifteen languages in the TIOBE index, a measure of the popularity of programming languages.[6]
+
+Naming
+The first manual for FORTRAN describes it as a Formula Translating System, and printed the name with small caps, Fortran.[7]: p.2 [8] Other sources suggest the name stands for Formula Translator,[9] or Formula Translation.[10] Early IBM computers did not support lower case letters and the names of versions of the language through FORTRAN 77 were usually spelled in all-uppercase[11] (FORTRAN 77 was the last version in which the Fortran character set included only uppercase letters[12]). The official language standards for Fortran have referred to the language as "Fortran" with initial caps since Fortran 90.
+
+Origins
+
+John Backus (1924–2007) proposed the FORTRAN project in December 1953 and received the A.M. Turing Award in 1977.
+In late 1953, John W. Backus submitted a proposal to his superiors at IBM to develop a more practical alternative to assembly language for programming their IBM 704 mainframe computer.[8]: 69  Backus' historic FORTRAN team consisted of programmers Richard Goldberg, Sheldon F. Best, Harlan Herrick, Peter Sheridan, Roy Nutt, Robert Nelson, Irving Ziller, Harold Stern, Lois Haibt, and David Sayre.[13] Its concepts included easier entry of equations into a computer, an idea developed by J. Halcombe Laning and demonstrated in the Laning and Zierler system of 1952.[14]
+
+
+The Fortran Automatic Coding System for the IBM 704 (October 15, 1956), the first programmer's reference manual for Fortran[7]
+A draft specification for The IBM Mathematical Formula Translating System was completed by November 1954.[8]: 71  The first manual for FORTRAN appeared in October 1956,[7][8]: 72  with the first FORTRAN compiler delivered in April 1957.[8]: 75  This was the first optimizing compiler, because customers were reluctant to use a high-level programming language unless its compiler could generate code with performance approaching that of hand-coded assembly language.[15]
+
+While the community was skeptical that this new method could possibly outperform hand-coding, it reduced the number of programming statements necessary to operate a machine by a factor of 20, and quickly gained acceptance. John Backus said during a 1979 interview with Think, the IBM employee magazine, "Much of my work has come from being lazy. I didn't like writing programs, and so, when I was working on the IBM 701, writing programs for computing missile trajectories, I started work on a programming system to make it easier to write programs."[16]
+
+The language was widely adopted by scientists for writing numerically intensive programs, which encouraged compiler writers to produce compilers that could generate faster and more efficient code. The inclusion of a complex number data type in the language made Fortran especially suited to technical applications such as electrical engineering.[17]
+
+By 1960, versions of FORTRAN were available for the IBM 709, 650, 1620, and 7090 computers. Significantly, the increasing popularity of FORTRAN spurred competing computer manufacturers to provide FORTRAN compilers for their machines, so that by 1963 over 40 FORTRAN compilers existed. For these reasons, FORTRAN is considered to be the first widely used cross-platform programming language.[citation needed]
+
+FORTRAN was provided for the IBM 1401 computer by an innovative 63-phase compiler that ran entirely in its core memory of only 8000 (six-bit) characters. The compiler could be run from tape, or from a 2200-card deck; it used no further tape or disk storage. It kept the program in memory and loaded overlays that gradually transformed it, in place, into executable form, as described by Haines.[18] This article was reprinted, edited, in both editions of Anatomy of a Compiler[19] and in the IBM manual "Fortran Specifications and Operating Procedures, IBM 1401".[20] The executable form was not entirely machine language; rather, floating-point arithmetic, sub-scripting, input/output, and function references were interpreted, preceding UCSD Pascal P-code by two decades. GOTRAN, a simplified, interpreted version of FORTRAN I (with only 12 statements not 32) for "load and go" operation was available (at least for the early IBM 1620 computer).[21] Modern Fortran, and almost all later versions, are fully compiled, as done for other high-performance languages.
+
+The development of Fortran paralleled the early evolution of compiler technology, and many advances in the theory and design of compilers were specifically motivated by the need to generate efficient code for Fortran programs.
+
+FORTRAN
+The initial release of FORTRAN for the IBM 704[7] contained 32 statements, including:
+
+DIMENSION and EQUIVALENCE statements
+Assignment statements
+Three-way arithmetic IF statement, which passed control to one of three locations in the program depending on whether the result of the arithmetic statement was negative, zero, or positive
+IF statements for checking exceptions (ACCUMULATOR OVERFLOW, QUOTIENT OVERFLOW, and DIVIDE CHECK); and IF statements for manipulating sense switches and sense lights
+GO TO, computed GO TO, ASSIGN, and assigned GO TO
+DO loops
+Formatted I/O: FORMAT, READ, READ INPUT TAPE, WRITE, WRITE OUTPUT TAPE, PRINT, and PUNCH
+Unformatted I/O: READ TAPE, READ DRUM, WRITE TAPE, and WRITE DRUM
+Other I/O: END FILE, REWIND, and BACKSPACE
+PAUSE, STOP, and CONTINUE
+FREQUENCY statement (for providing optimization hints to the compiler).
+The arithmetic IF statement was reminiscent of (but not readily implementable by) a three-way comparison instruction (CAS—Compare Accumulator with Storage) available on the 704. The statement provided the only way to compare numbers—by testing their difference, with an attendant risk of overflow. This deficiency was later overcome by "logical" facilities introduced in FORTRAN IV.
+
+The FREQUENCY statement was used originally (and optionally) to give branch probabilities for the three branch cases of the arithmetic IF statement. The first FORTRAN compiler used this weighting to perform at compile time a Monte Carlo simulation of the generated code, the results of which were used to optimize the placement of basic blocks in memory—a very sophisticated optimization for its time. The Monte Carlo technique is documented in Backus et al.'s paper on this original implementation, The FORTRAN Automatic Coding System:
+
+The fundamental unit of program is the basic block; a basic block is a stretch of program which has one entry point and one exit point. The purpose of section 4 is to prepare for section 5 a table of predecessors (PRED table) which enumerates the basic blocks and lists for every basic block each of the basic blocks which can be its immediate predecessor in flow, together with the absolute frequency of each such basic block link. This table is obtained by running the program once in Monte-Carlo fashion, in which the outcome of conditional transfers arising out of IF-type statements and computed GO TO's is determined by a random number generator suitably weighted according to whatever FREQUENCY statements have been provided.[13]
+
+The first FORTRAN compiler reported diagnostic information by halting the program when an error was found and outputting an error code on its console. That code could be looked up by the programmer in an error messages table in the operator's manual, providing them with a brief description of the problem.[7]: p.19–20 [22] Later, an error-handling subroutine to handle user errors such as division by zero, developed by NASA,[23] was incorporated, informing users of which line of code contained the error.
